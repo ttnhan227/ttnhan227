@@ -16,8 +16,6 @@
 
 - ⚡ Fun fact **I enjoy building backend systems and turning ideas into real projects**
 
-- 👨‍💻 All of my projects are available at **[https://www.linkedin.com/in/trantrongnhan/](https://www.linkedin.com/in/trantrongnhan/)**
-
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1gLGmeBf7teoiWrQaJtfde38bqZYcgYmh/view?usp=sharing](https://drive.google.com/file/d/1gLGmeBf7teoiWrQaJtfde38bqZYcgYmh/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
