@@ -73,7 +73,7 @@
       </p>
       <p><strong>Stack:</strong> React, Vite, CSS, Simple Icons</p>
       <p>
-        <a href="https://trongnhan.is-a.dev"><strong>Visit portfolio</strong></a> ·
+        <a href="https://trongnhan-portfolio-mu.vercel.app"><strong>Visit portfolio</strong></a> ·
         <a href="https://github.com/ttnhan227/trongnhan-portfolio"><strong>Source</strong></a>
       </p>
     </td>
