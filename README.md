@@ -28,54 +28,44 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>InsightPDF</h3>
-      <p>
-        A secure AI document workspace with OCR fallback, multi-document RAG,
-        page citations, structured analysis, and asynchronous PDF transformations.
-      </p>
-      <p><strong>Stack:</strong> React, FastAPI, PostgreSQL, pgvector, Celery, Redis, MinIO</p>
-      <p>
-        <a href="https://insightpdf-client.onrender.com/"><strong>Live demo</strong></a> ·
-        <a href="https://github.com/ttnhan227/InsightPDF"><strong>Source</strong></a>
-      </p>
+    <th width="50%" align="left">InsightPDF</th>
+    <th width="50%" align="left">VeriSpend</th>
+  </tr>
+  <tr>
+    <td valign="top">A secure AI document workspace with OCR fallback, multi-document RAG, page citations, structured analysis, and asynchronous PDF transformations.</td>
+    <td valign="top">A multi-tenant expense review platform with editable AI receipt extraction, deterministic risk signals, role-protected approvals, and audit history.</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Stack:</strong> React, FastAPI, PostgreSQL, pgvector, Celery, Redis, MinIO</td>
+    <td valign="top"><strong>Stack:</strong> React, TypeScript, ASP.NET Core, EF Core, PostgreSQL, Docker</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://insightpdf-client.onrender.com/"><strong>Live demo</strong></a> ·
+      <a href="https://github.com/ttnhan227/InsightPDF"><strong>Source</strong></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>VeriSpend</h3>
-      <p>
-        A multi-tenant expense review platform with editable AI receipt extraction,
-        deterministic risk signals, role-protected approvals, and audit history.
-      </p>
-      <p><strong>Stack:</strong> React, TypeScript, ASP.NET Core, EF Core, PostgreSQL, Docker</p>
-      <p>
-        <a href="https://aiaudit-expensetracker-web.onrender.com/"><strong>Live demo</strong></a> ·
-        <a href="https://github.com/ttnhan227/VeriSpend"><strong>Source</strong></a>
-      </p>
+    <td>
+      <a href="https://aiaudit-expensetracker-web.onrender.com/"><strong>Live demo</strong></a> ·
+      <a href="https://github.com/ttnhan227/VeriSpend"><strong>Source</strong></a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>LogiFlow</h3>
-      <p>
-        A team-built freight operations platform covering orders, dispatch planning,
-        driver tracking, delivery, payments, chat, notifications, and reporting.
-      </p>
-      <p><strong>Stack:</strong> React, Spring Boot, Flutter, PostgreSQL, PostGIS, STOMP</p>
-      <p>
-        <a href="https://github.com/ttnhan227/logiflow"><strong>Source</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Portfolio</h3>
-      <p>
-        My personal developer portfolio featuring project case studies, technical
-        skills, verified credentials, and professional profiles.
-      </p>
-      <p><strong>Stack:</strong> React, Vite, CSS, Simple Icons</p>
-      <p>
-        <a href="https://trongnhan-portfolio-mu.vercel.app"><strong>Visit portfolio</strong></a> ·
-        <a href="https://github.com/ttnhan227/trongnhan-portfolio"><strong>Source</strong></a>
-      </p>
+    <th align="left">LogiFlow</th>
+    <th align="left">Portfolio</th>
+  </tr>
+  <tr>
+    <td valign="top">A team-built freight operations platform covering orders, dispatch planning, driver tracking, delivery, payments, chat, notifications, and reporting.</td>
+    <td valign="top">My personal developer portfolio featuring project case studies, technical skills, verified credentials, and professional profiles.</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Stack:</strong> React, Spring Boot, Flutter, PostgreSQL, PostGIS, STOMP</td>
+    <td valign="top"><strong>Stack:</strong> React, Vite, CSS, Simple Icons</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ttnhan227/logiflow"><strong>Source</strong></a></td>
+    <td>
+      <a href="https://trongnhan-portfolio-mu.vercel.app"><strong>Visit portfolio</strong></a> ·
+      <a href="https://github.com/ttnhan227/trongnhan-portfolio"><strong>Source</strong></a>
     </td>
   </tr>
 </table>
