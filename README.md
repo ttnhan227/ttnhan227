@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://trongnhan.is-a.dev">Portfolio</a> •
+  <a href="https://trongnhan-portfolio-mu.vercel.app/">Portfolio</a> •
   <a href="https://trongnhan.is-a.dev/Tran_Trong_Nhan_CV.pdf">Résumé</a> •
   <a href="https://linkedin.com/in/trantrongnhan">LinkedIn</a> •
   <a href="https://leetcode.com/u/ttnhan227/">LeetCode</a> •
@@ -64,7 +64,7 @@
   <tr>
     <td><a href="https://github.com/ttnhan227/logiflow"><strong>Source</strong></a></td>
     <td>
-      <a href="https://trongnhan-portfolio-mu.vercel.app"><strong>Visit portfolio</strong></a> ·
+      <a href="https://trongnhan-portfolio-mu.vercel.app/"><strong>Visit portfolio</strong></a> ·
       <a href="https://github.com/ttnhan227/trongnhan-portfolio"><strong>Source</strong></a>
     </td>
   </tr>
