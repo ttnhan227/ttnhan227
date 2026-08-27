@@ -30,8 +30,8 @@
 
 <table>
   <tr>
-    <th width="50%" align="left">Groundwork</th>
-    <th width="50%" align="left">VeriSpend</th>
+    <th width="50%" align="left"><a href="https://github.com/ttnhan227/Groundwork">Groundwork</a></th>
+    <th width="50%" align="left"><a href="https://github.com/ttnhan227/VeriSpend">VeriSpend</a></th>
   </tr>
   <tr>
     <td valign="top">
@@ -53,17 +53,15 @@
   </tr>
   <tr>
     <td>
-      <a href="https://groundwork-client.onrender.com/"><strong>Live Demo</strong></a> ·
-      <a href="https://github.com/ttnhan227/Groundwork"><strong>Source Code</strong></a>
+      <a href="https://groundwork-client.onrender.com/"><strong>Live Demo ↗</strong></a>
     </td>
     <td>
-      <a href="https://verispend-client.onrender.com/"><strong>Live Demo</strong></a> ·
-      <a href="https://github.com/ttnhan227/VeriSpend"><strong>Source Code</strong></a>
+      <a href="https://verispend-client.onrender.com/"><strong>Live Demo ↗</strong></a>
     </td>
   </tr>
   <tr>
-    <th align="left">LogiFlow</th>
-    <th align="left">Developer Portfolio</th>
+    <th align="left"><a href="https://github.com/ttnhan227/logiflow">LogiFlow</a></th>
+    <th align="left"><a href="https://github.com/ttnhan227/trongnhan-portfolio">Developer Portfolio</a></th>
   </tr>
   <tr>
     <td valign="top">
@@ -85,11 +83,10 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/ttnhan227/logiflow"><strong>Source Code</strong></a>
+      <a href="https://logiflow-client.onrender.com/"><strong>Live Demo ↗</strong></a>
     </td>
     <td>
-      <a href="https://trongnhan-portfolio-mu.vercel.app/"><strong>Visit Portfolio</strong></a> ·
-      <a href="https://github.com/ttnhan227/trongnhan-portfolio"><strong>Source Code</strong></a>
+      <a href="https://trongnhan-portfolio-mu.vercel.app/"><strong>Visit Portfolio ↗</strong></a>
     </td>
   </tr>
 </table>
