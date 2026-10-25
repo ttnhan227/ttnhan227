@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Tran Trong Nhan 👋</h1>
 
 <p align="center">
-  <strong>Backend-focused Software Engineer</strong><br>
-  I design and build resilient backend systems, multi-tenant architectures, asynchronous processing pipelines, and deterministic AI document workflows.
+  <strong>Software Engineer | Full-Stack, Desktop & AI</strong><br>
+  I build native desktop platforms, resilient transactional backends, open-source developer tooling, and grounded AI workflows.
 </p>
 
 <p align="center">
@@ -17,11 +17,11 @@
 
 ### About Me
 
-- 🔭 Building **resilient, secure backend systems and production-grade full-stack applications**
-- 🧠 Focus areas: **Tenant isolation, asynchronous event processing, deterministic AI guardrails, distributed systems, and API design**
-- 🛡️ Core engineering principles: **Multi-tenant security, verifiable outputs, immutable audit trails, and strict schema contracts**
+- 🔭 Building **native Windows desktop platforms, transactional backend architectures, and open-source tooling**
+- 🧠 Focus areas: **OS filesystem & hardware diagnostics, ACID financial ledgers, distributed real-time telemetry, and grounded AI agents**
+- 🛡️ Core engineering principles: **Defensive programming, verifiable outputs, immutable audit trails, and strict schema contracts**
 - 🧪 Dedicated to automated testing (**Pytest, xUnit, JUnit, Vitest, Playwright**), containerization (**Docker**), and reproducible CI workflows
-- 💬 Tech stack: **Python (FastAPI), C# (ASP.NET Core), Java (Spring Boot), PostgreSQL (pgvector/PostGIS), Redis, Celery, React/TypeScript**
+- 💬 Primary stack: **C# (.NET 10 / WinUI 3 / ASP.NET Core), Python (FastAPI), Java (Spring Boot), TypeScript / React, PostgreSQL, SQLite**
 - 📍 Based in **Ho Chi Minh City, Vietnam**
 
 ---
@@ -30,63 +30,63 @@
 
 <table>
   <tr>
+    <th width="50%" align="left"><a href="https://github.com/ttnhan227/recon">recon-qa</a></th>
     <th width="50%" align="left"><a href="https://github.com/ttnhan227/Groundwork">Groundwork</a></th>
-    <th width="50%" align="left"><a href="https://github.com/ttnhan227/VeriSpend">VeriSpend</a></th>
   </tr>
   <tr>
     <td valign="top">
-      <strong>AI Document Workspace &amp; Deterministic Verification Studio</strong><br>
-      Ingests enterprise PDFs and specs, performs OCR and semantic search with <code>pgvector</code>, enforces code-level citation verification against physical page records, and gates deliverable exports until 100% verified.
+      <strong>Open-Source QA Automation Tool (PyPI Package)</strong><br>
+      Discovers OpenAPI specifications and crawls web applications to generate API and browser test cases. Implements bounded asynchronous execution for HTTP and Playwright runs with failure screenshots, standalone HTML reports, and deterministic LLM root-cause suggestions.
     </td>
     <td valign="top">
-      <strong>Multi-Tenant AI Expense Review &amp; Spend Governance Platform</strong><br>
-      Enforces JWT tenant isolation, multimodal vision receipt parsing with heuristic fallback, deterministic spend policy guardrails, executive department budgeting, and full before/after JSON audit snapshots.
+      <strong>Native Windows Storage Analyzer, Diagnostics & AI Utility</strong><br>
+      High-performance WinUI 3 desktop utility for multi-drive space analysis, proportional folder hierarchy breakdown, and NTFS MFT enumeration. Features dynamic WMI hardware topology diagnostics, uninstallation leftover cleanup, and a privacy-guarded conversational AI agent.
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <strong>Stack:</strong> FastAPI, Python, React, PostgreSQL, pgvector, Celery, Redis, Docker
+      <strong>Stack:</strong> Python, FastAPI, Playwright, Pydantic, SQLAlchemy, SQLite, PyPI
     </td>
     <td valign="top">
-      <strong>Stack:</strong> ASP.NET Core, C#, React, TypeScript, EF Core, PostgreSQL, Mistral Vision, Docker
+      <strong>Stack:</strong> WinUI 3, C#, .NET 10, Win32 API, WMI, Multi-Provider AI, Inno Setup
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://groundwork-client.onrender.com/"><strong>Live Demo ↗</strong></a>
+      <a href="https://pypi.org/project/recon-qa/"><strong>PyPI Distribution ↗</strong></a> • <a href="https://github.com/ttnhan227/recon"><strong>GitHub ↗</strong></a>
     </td>
     <td>
-      <a href="https://verispend-client.onrender.com/"><strong>Live Demo ↗</strong></a>
+      <a href="https://groundwork-client.onrender.com/"><strong>Website ↗</strong></a> • <a href="https://github.com/ttnhan227/Groundwork/releases"><strong>Releases ↗</strong></a>
     </td>
   </tr>
   <tr>
+    <th align="left"><a href="https://github.com/ttnhan227/Tenvora">Tenvora</a></th>
     <th align="left"><a href="https://github.com/ttnhan227/logiflow">LogiFlow</a></th>
-    <th align="left"><a href="https://github.com/ttnhan227/trongnhan-portfolio">Developer Portfolio</a></th>
   </tr>
   <tr>
     <td valign="top">
-      <strong>Freight Management &amp; Real-Time Telemetry Platform</strong><br>
-      Enterprise logistics system coordinating multi-stop freight orders, linehaul manifests, and live fleet dispatching with interactive GIS Leaflet corridor routing, real-time STOMP/WebSocket GPS telemetry, and PayPal checkout with PDF invoicing.
+      <strong>Freelancer Finance Workspace & Ledger</strong><br>
+      Financial management workspace enforcing JWT tenant scoping and atomic, idempotent transfers with PostgreSQL row locks. Handles itemized invoicing, locally parsed CSV payment reconciliation, tax reserve planning, and grounded AI summaries with audit snapshots.
     </td>
     <td valign="top">
-      <strong>Personal Interactive Portfolio &amp; Case Studies Hub</strong><br>
-      Production portfolio showcasing deep-dive technical architecture diagrams, live interactive simulators, multi-role showcase galleries, verified credentials, and terminal-style project walkthroughs.
+      <strong>Freight Management & Real-Time Telemetry System</strong><br>
+      Enterprise logistics system matching cargo tonnage to truck capacity and streaming live transit telemetry over WebSockets to Leaflet GIS maps. Enforces delivery state machines, automated driver verification via Mistral OCR, and verified with 69 JUnit/Playwright tests.
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <strong>Stack:</strong> Spring Boot, Java, React, Leaflet, Flutter, PostgreSQL, PostGIS, WebSockets, Docker
+      <strong>Stack:</strong> ASP.NET Core, C#, React, TypeScript, EF Core, PostgreSQL, Docker
     </td>
     <td valign="top">
-      <strong>Stack:</strong> React, Vite, Tailwind CSS, Lucide Icons, Simple Icons
+      <strong>Stack:</strong> Spring Boot, Java, React, Flutter, PostgreSQL, WebSockets, Docker
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://logiflow-client.onrender.com/"><strong>Live Demo ↗</strong></a>
+      <a href="https://tenvora-client.onrender.com/"><strong>Live Demo ↗</strong></a> • <a href="https://github.com/ttnhan227/Tenvora"><strong>GitHub ↗</strong></a>
     </td>
     <td>
-      <a href="https://trongnhan-portfolio-mu.vercel.app/"><strong>Visit Portfolio ↗</strong></a>
+      <a href="https://logiflow-client.onrender.com/"><strong>Website ↗</strong></a> • <a href="https://github.com/ttnhan227/logiflow"><strong>GitHub ↗</strong></a>
     </td>
   </tr>
 </table>
@@ -96,13 +96,15 @@
 ### Languages &amp; Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,cs,java,ts,js,dotnet,spring,react,flutter,postgres,mysql,mongodb,redis,docker,git,githubactions" alt="Python, C#, Java, TypeScript, JavaScript, .NET, Spring, React, Flutter, PostgreSQL, MySQL, MongoDB, Redis, Docker, Git, and GitHub Actions">
+  <img src="https://skillicons.dev/icons?i=py,cs,java,ts,js,dotnet,spring,react,flutter,postgres,sqlite,docker,git,githubactions" alt="Python, C#, Java, TypeScript, JavaScript, .NET, Spring, React, Flutter, PostgreSQL, SQLite, Docker, Git, and GitHub Actions">
 </p>
 
-- **Backend &amp; Frameworks:** FastAPI · ASP.NET Core · Spring Boot · Spring Security · SQLAlchemy · EF Core · REST APIs · Celery
-- **Data &amp; Infrastructure:** PostgreSQL · pgvector · PostGIS · Redis · MinIO · Docker · Docker Compose · Linux
-- **Frontend &amp; Mobile:** React · TypeScript · JavaScript · Vite · Tailwind CSS · Flutter · Leaflet
-- **Testing &amp; Quality:** pytest · xUnit · JUnit · Vitest · Playwright · Code Coverage &amp; Linting
+- **Languages:** Python · C# · Java · TypeScript · JavaScript · SQL · Dart
+- **Desktop & Native:** WinUI 3 · .NET 10 · Win32 API · WMI · C++ MFT Helper · Inno Setup
+- **Backend & APIs:** ASP.NET Core · Spring Boot · FastAPI · EF Core · SQLAlchemy · REST APIs · WebSockets
+- **Databases & Storage:** PostgreSQL · SQLite (FTS5) · Redis
+- **AI & LLM:** Google Gemini · OpenAI · Ollama · Mistral · RAG & Grounded Citations
+- **Testing & Tools:** Pytest · xUnit · JUnit · Playwright · Vitest · Docker · Git · GitHub Actions
 
 ---
 
@@ -115,5 +117,5 @@
 ---
 
 <p align="center">
-  <a href="mailto:ttnhan227@gmail.com"><strong>Let's build something scalable and reliable.</strong></a>
+  <a href="mailto:ttnhan227@gmail.com"><strong>Let's build something scalable, native, and reliable.</strong></a>
 </p>
