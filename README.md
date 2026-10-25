@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://trongnhan-portfolio-mu.vercel.app/">Portfolio</a> •
-  <a href="https://trongnhan.is-a.dev/Tran_Trong_Nhan_CV.pdf">Résumé</a> •
   <a href="https://linkedin.com/in/trantrongnhan">LinkedIn</a> •
   <a href="https://leetcode.com/u/ttnhan227/">LeetCode</a> •
   <a href="mailto:ttnhan227@gmail.com">Email</a>
